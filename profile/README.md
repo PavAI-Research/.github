@@ -2,6 +2,8 @@
 
 Pavai Research is working towards finding innovative ways to apply AI technology in practical settings.
 
+![logo](./images/pavai_logo_medium.png) 
+
 <!--
 
 **Here are some ideas to get you started:**
